@@ -34,8 +34,41 @@
 
 **Conky_Hacken is part of the (https://github.com/tmcybers/Spanner-Hacken-Custom-Project) Spanner Hacken Machine Custom\Scratch Project that is under constant Development and Updates I work on custom constantly, also on Conky_hacken**
 
+# Instalation
+```
+sudo apt install conky-all
+```
+
+## [Important] Fonts
+* My Fonts are in the repo check for the folder `fonts`and download them.
+
+**U must place that fonts to be available to all system, are three simple and fast methods to add them all system**
+
+*Make them available to the entire system*
+
+Most of linux distros this is the \dir, install fonts for all users. (if you must use `sudo` , use it)
+```
+/usr/local/share/fonts/
+```
+* Just in case that this don´t work try this.
+```
+/usr/share/fonts/
+```
+
+### [Important Step] After place fonts available all system.
+```
+fc -cache -fv
+```
+#### Important `Restart` your machine, system.
 
 
+Now, download conky.conf from releases area.
+
+* Open conky.conf, copy the whole code ALL BY ONE.
+
+Now go to /etc/conky.conf ```sudo vim conky.conf```  and relpace all conky code with conky_hacken.
+
+* that`s all.
 
 
 
