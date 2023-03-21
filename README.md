@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-<a href="https://github.com/tmcybers/Spanner-Hacken-Custom-Project"><img src="https://img.shields.io/badge/lua-yellowgreen">
+<a href="https://github.com/tmcybers/Spanner-Hacken-Custom-Project"><img src="https://img.shields.io/badge/Lua-yellowgreen">
 <a href="https://github.com/tmcybers/Conky-Hacken/releases/tag/conky_hacken.0.1"><img src="https://img.shields.io/badge/downloads-3734-green">
 <a href="https://github.com/tmcybers/Conky-Hacken/releases/"><img src="https://img.shields.io/badge/releases-1.0-red">
 <a href="https://github.com/tmcybers/Conky-Hacken/"><img src="https://img.shields.io/badge/contributors-1-orange">
