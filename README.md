@@ -34,10 +34,10 @@
 
 **Conky_Hacken is part of the (https://github.com/tmcybers/Spanner-Hacken-Custom-Project) Spanner Hacken Machine Custom\Scratch Project that is under constant Development and Updates I work on custom constantly, also on Conky_hacken**
 
-# Instalation
+# Instalation [Debian based]
 ```
 sudo apt update
-sudo aopt uopgrade     [if needed]
+sudo apt upgrade   [if needed]
 sudo apt install conky-all
 ```
 
