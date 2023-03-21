@@ -67,7 +67,7 @@ Now, download conky.conf from releases area.
 
 * Open conky.conf, copy the whole code ALL BY ONE.
 
-Now go to /etc/conky.conf ```sudo vim conky.conf```  and relpace all conky code with conky_hacken.
+* Now go to `/etc/conky.conf` ```sudo vim conky.conf```  and replace all conky code with conky_hacken(this repo)
 
 * that`s all.
 
