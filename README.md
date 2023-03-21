@@ -42,7 +42,7 @@ sudo apt install conky-all
 ## [Important] Fonts
 * My Fonts are in the repo check for the folder `fonts`and download them.
 
-**U must place that fonts to be available to all system, are three simple and fast methods to add them all system**
+**U must place that fonts to be available to all system, are two simple and fast methods to add them all system**
 
 *Make them available to the entire system*
 
