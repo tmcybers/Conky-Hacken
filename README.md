@@ -104,7 +104,7 @@ alignment = 'top_left'
 alignment = 'top_right'
 ```
 
-* `bottom_left `bottom_right`
+* `bottom_left` `bottom_right` `top_right`
 
 _infinity of choices_
 
