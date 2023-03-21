@@ -84,10 +84,13 @@ Thats all.
 ```	
 cp /etc/conky/conky.conf ~/.conkyrc
 ```
+* `sudo`if needed.
+  
 * To apply these changes, you will need to reload the desktop by rebooting. After that, use your favorite text editor to open the configuration file.
 ```
 vim ~/.conkyrc
 ```
+  
 ### Alignment
 
 1
@@ -101,9 +104,9 @@ alignment = 'top_left'
 alignment = 'top_right'
 ```
 
+* `bottom_left `bottom_right`
 
-
-
+_infinity of choices_
 
 
 
