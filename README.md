@@ -84,7 +84,7 @@ Thats all.
 ```	
 cp /etc/conky/conky.conf ~/.conkyrc
 ```
-* `sudo`if needed.
+* `sudo`if needed, if conkyrc is not there just creat it `touch`
   
 * To apply these changes, you will need to reload the desktop by rebooting. After that, use your favorite text editor to open the configuration file.
 ```
