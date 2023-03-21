@@ -61,7 +61,8 @@ fc -cache -fv
 ```
 #### Important `Restart` your machine, system.
 
-
+## Usage Fact 1
+  
 Now, download conky.conf from releases area.
 
 * Open conky.conf, copy the whole code ALL BY ONE.
@@ -70,7 +71,11 @@ Now go to /etc/conky.conf ```sudo vim conky.conf```  and relpace all conky code 
 
 * that`s all.
 
+## Usage Fact 2
 
+**Replace conky.conf from /etc/conky with conky.conf from Conky_Hacken (this repo) , u must `sudo su`**
+
+Thats all.
 
 
 
