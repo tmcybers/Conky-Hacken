@@ -77,6 +77,38 @@ Now, download conky.conf from releases area.
 
 Thats all.
 
+**USAGE FACT 3**
+
+* Conky's universal configuration file is this dir `/etc/conky/conky.conf`. If you're looking to apply universal changes, work directly with this file. 
+* Otherwise, to edit the configuration just for your user, first create a Conky configuration file like this:
+```	
+cp /etc/conky/conky.conf ~/.conkyrc
+```
+* To apply these changes, you will need to reload the desktop by rebooting. After that, use your favorite text editor to open the configuration file.
+```
+vim ~/.conkyrc
+```
+### Alignment
+
+1
+```
+alignment = 'top_left'
+```
+* For this other:
+
+2
+```
+alignment = 'top_right'
+```
+
+
+
+
+
+
+
+
+
 
 
 
