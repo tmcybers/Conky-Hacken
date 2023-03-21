@@ -27,12 +27,12 @@
   
 ---
 
-# ⚒️ My||Hacking||Environment|||Openbox||Based ⚒️
+# ⚒️ Conky \ Hacken \ Machine ⚒️
 
 
 # Important for You #
 
-** Conky_Hacken is part of the (https://github.com/tmcybers/Spanner-Hacken-Custom-Project) Spanner Hacken Machine Custom\Scratch Project that is under constant Development and Updates, also Conky_hacken.
+**Conky_Hacken is part of the (https://github.com/tmcybers/Spanner-Hacken-Custom-Project) Spanner Hacken Machine Custom\Scratch Project that is under constant Development and Updates I work on custom constantly, also on Conky_hacken**
 
 
 
