@@ -91,6 +91,7 @@ cp /etc/conky/conky.conf ~/.conkyrc
 vim ~/.conkyrc
 ```
   
+  
 ### Alignment
 
 1
@@ -104,7 +105,7 @@ alignment = 'top_left'
 alignment = 'top_right'
 ```
 
-* `bottom_left` `bottom_right` `top_right`
+* `bottom_left` `bottom_right` `top_`
 
 _infinity of choices_
 
