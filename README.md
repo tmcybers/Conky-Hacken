@@ -59,7 +59,7 @@ Most of linux distros this is the \dir, install fonts for all users. (if you mus
 
 ### [Important Step] After place fonts available all system.
 ```
-fc -cache -fv
+fc-cache -fv
 ```
 #### Important `Restart` your machine, system.
 
