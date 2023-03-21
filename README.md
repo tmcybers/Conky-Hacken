@@ -36,6 +36,8 @@
 
 # Instalation
 ```
+sudo apt update
+sudo aopt uopgrade     [if needed]
 sudo apt install conky-all
 ```
 
